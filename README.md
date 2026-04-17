@@ -1,6 +1,6 @@
 # All Restaurants in Riverside-San Bernardino-Ontario (Metro), California, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 686 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `504528` |
 | Location | Riverside-San Bernardino-Ontario, CA |
 | Category | Restaurants |
-| Full dataset size | 4,970 records |
-| Free sample size | 25 records (0.5%) |
-| Last export | 2026-03-31T13:21:18.669567+00:00 |
+| Full dataset size | 6,860 records |
+| Free sample size | 686 records (10.0%) |
+| Last export | 2026-04-14T13:53:05.643317+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-riverside-san-bernardino-ontario-metro-california-us-sample-504528/releases/download/sample-latest/beamstation_504528_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
