@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8d375303-c1a6-46f9-9fa8-4a493894d009",
+  "export_job_id": "cd513188-171a-466e-ad2a-05bbf1dbb743",
   "id_short": 504528,
-  "published_at": "2026-04-17T19:36:27Z",
+  "published_at": "2026-04-21T19:29:53Z",
   "repo_name": "all-restaurants-in-riverside-san-bernardino-ontario-metro-california-us-sample-504528",
   "sample_asset_name": "beamstation_504528_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/504528/beamstation_504528_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv",
-  "sample_records": 686,
-  "sample_sha256": "350d49a0663986adad647ffed56d9697e231f337b4d819c17c0d5a7e446d6dc4",
-  "sample_size_bytes": 2458677,
-  "total_records": 6860
+  "sample_records": 628,
+  "sample_sha256": "3a59c7de58ec296d52d391554a3c96596473dcfc1b897d4f73ae98214fc6deef",
+  "sample_size_bytes": 2314629,
+  "total_records": 6285
 }
