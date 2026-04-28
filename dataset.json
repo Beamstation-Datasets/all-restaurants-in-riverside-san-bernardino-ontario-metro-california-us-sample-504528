@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete restaurant dataset for the Riverside-San Bernardino-Ontario metro in California's Inland Empire. Filtered by the Restaurants category group, this export covers a fast-growing suburban dining market with business profiles, ratings, review data, competitive metrics, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Riverside-San Bernardino-Ontario (Metro), California, US",
-  "export_job_id": "cd513188-171a-466e-ad2a-05bbf1dbb743",
+  "export_job_id": "2718b0e8-de58-459a-b70c-ebdd7e7d7ea8",
   "github_org": "Beamstation-Datasets",
   "id_short": 504528,
   "location_name": "Riverside-San Bernardino-Ontario, CA",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-riverside-san-bernardino-ontario-metro-california-us-sample-504528",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/504528/beamstation_504528_restaurants-us-riversidesanbernardinoontarioca_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 628,
-  "sample_sha256": "3a59c7de58ec296d52d391554a3c96596473dcfc1b897d4f73ae98214fc6deef",
-  "sample_size_bytes": 2314629,
-  "total_records": 6285,
-  "updated_at": "2026-04-21T15:02:50.156945+00:00"
+  "sample_records": 592,
+  "sample_sha256": "caa0344a58d6572e94e90748d9eef6981b0bdda9166cbd677c4d8bc90fd55acf",
+  "sample_size_bytes": 2044194,
+  "total_records": 5928,
+  "updated_at": "2026-04-28T16:03:46.921479+00:00"
 }
